@@ -82,6 +82,19 @@ else:
 
 #8 Que almacene monto, cantidad de cuotas, y porcentaje de interés anual
 
+# monto = input("Saludos, Ingrese el monto solicitado: ")
+# monto = float(monto)
+# plazo = input("Ingrese el plazo, en años, a pagar el monto solicitado: ")
+# plazo = int(plazo)
+# print("Ofertamos un interes fijo de 12%")
+# cant_cuotas = (plazo * 12)
+# print("Cantidad de cuotas a pagar: ")
+# intesesanual = (12/100)
+# cuotamensual =  monto * (intesesanual * (1+intesesanual) **cant_cuotas / (1 + (intesesanual ** cant_cuotas) -1))
+# print("Su cuota mensual asciende a: " + int(cuotamensual) + "Pesos")
+
+
+
 # monto = int(750000)
 # cuotas = int(24)
 # interes_anual = int(0.16/100.00)
